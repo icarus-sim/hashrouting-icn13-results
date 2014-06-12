@@ -2,7 +2,6 @@
 #
 # Reproduce results of ACM SIGCOMM ICN'13 hash-routing paper
 #
-
 echo "ADDING ICARUS TO PYTHON PATH"
 export PYTHONPATH=`pwd`:$PYTHONPATH
 echo "CREATING DIRECTORIES FOR GRAPHS AND LOGS"
